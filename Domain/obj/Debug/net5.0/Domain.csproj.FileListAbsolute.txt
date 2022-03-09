@@ -1,0 +1,12 @@
+C:\Baseline\Application\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Baseline\Application\Domain\bin\Debug\net5.0\Domain.dll
+C:\Baseline\Application\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Baseline\Application\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Baseline\Application\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Baseline\Application\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Baseline\Application\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Baseline\Application\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Baseline\Application\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Baseline\Application\Domain\obj\Debug\net5.0\Domain.dll
+C:\Baseline\Application\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Baseline\Application\Domain\obj\Debug\net5.0\Domain.pdb

@@ -9,5 +9,5 @@ It will store all models that will be implemented as table in database. So our m
 ### 2. Common Models
 It likes a model helper such as "BaseResponse" for storing data from API etc
 ### 3. DTO
-It similar to our model in Models folder. The difference, perhaps we don't include several critical data. For example in user model we have password property, then in our DTO we will exclude the password property. It makes our data secure. DTO models will be throws or consume by the user
+It similar to our model in Models folder. The difference, perhaps we don't include several critical data. For example in user model we have password property, then in our DTO we will exclude the password property. It makes our data secure. DTO models will be thrown or consumed by the user
 
